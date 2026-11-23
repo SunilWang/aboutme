@@ -37,6 +37,7 @@
 
 | 日期 | 场合与主题 | 资料 |
 | --- | --- | --- |
+| 2025.11.26 | 58 高阶产品人俱乐部 ·《产品 Coding——产品经理如何使用 AI 代码》 | [分享介绍与海报](ishare/2025-product-coding/README.md) |
 | 2023.04.08 | 第 62 届前端早早聊 ·《如何在创业公司建立 Node.js 生态》 | [议程海报与讲师介绍](ishare/2023-zaozao/README.md) · [活动页](https://www.zaozao.run/conf/c62) |
 | 2022.08.20 | K+ 全球软件研发行业创新峰会深圳站 ·《UI 自动化智能解析之路》 | [课件与海报](ishare/2022-keylinkcon/README.md) · [讲师页](http://www.2022shenzhen.keylinkcon.com/h-col-183.html) |
 | 2017.08.16 | 58 赶集集团前端技术分享 ·《带你走进 Node.js 全栈之路》 | [课件与视频二维码](ishare/2017-nodejs/README.md) · [优酷播单](http://t.cn/RpIqi0c) |
